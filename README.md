@@ -2,8 +2,6 @@
 
 I am a React Native developer from India
 
-- 🔭 Working on grocery shopping app having 50k downloads on Play Store.
-- 🌱 Learning nodejs by night.
   <br>
 
 ## Connect with me
